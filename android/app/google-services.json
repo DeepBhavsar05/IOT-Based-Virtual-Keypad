@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13179347469",
+    "project_id": "virtual-keyboard-deep",
+    "storage_bucket": "virtual-keyboard-deep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13179347469:android:3695c3d382ce1f8721ab44",
+        "android_client_info": {
+          "package_name": "com.example.virtual_keyboard_deep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13179347469-g1sagpfrrs26oalcrj45vlgfu16q6o7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfVXl45yNxwIh1oiNDGtjKx44zm5lLMeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13179347469-g1sagpfrrs26oalcrj45vlgfu16q6o7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
